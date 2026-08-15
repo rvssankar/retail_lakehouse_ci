@@ -1,0 +1,49 @@
+resources:
+  jobs:
+    batch_scd2_job:
+      name: "batch_scd2_customer_pipeline"
+
+
+      parameters:
+          - name: source_path
+            default: "/Volumes/${var.catalog}/bronze/source_data/batch/customers/day1/customers.csv"
+
+      
+      tasks:
+        - task_key: bronze_ingest
+          spark_python_task:
+            python_file: ../../src/bronze/batch_ingest.py
+            parameters:
+              - "--catalog"
+              - "${var.catalog}"
+              - "--source_path"
+              - "{{job.parameters.source_path}}"
+          environment_key: default
+
+        - task_key: silver_clean
+          depends_on:
+            - task_key: bronze_ingest
+          spark_python_task:
+            python_file: ../../src/silver/batch_clean.py
+            parameters:
+              - "--catalog"
+              - "${var.catalog}"              
+          environment_key: default
+
+        - task_key: gold_scd2_merge
+          depends_on:
+            - task_key: silver_clean
+          spark_python_task:
+            python_file: ../../src/gold/scd2_merge.py
+            parameters:
+              - "--catalog"
+              - "${var.catalog}"              
+          environment_key: default
+
+
+      
+      environments:
+        - environment_key: default
+          spec:
+            environment_version: "4"
+            

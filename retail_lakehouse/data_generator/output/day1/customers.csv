@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone_number,address,city,state,zip_code,segment,source_updated_at
+1101,Brent,Stevens,nicolehanson@example.net,001-949-502-9981,751 Alexandra Forks,Martinezmouth,OH,11706,Gold,2026-08-06T10:35:02.150722+00:00
+1102,Margaret,Cline,harveykurt@example.org,658.904.3501x11593,523 Christopher Pike Apt. 797,Lake Robertland,NJ,14425,Bronze,2026-08-06T10:35:02.150722+00:00
+1103,Vanessa,Clay,bennettyolanda@example.org,575-762-6625x1403,6130 Stout Spur,North Nataliemouth,NJ,24562,Bronze,2026-08-06T10:35:02.150722+00:00
+1104,Christine,Taylor,peterjones@example.net,+1-570-828-5799,8299 James Underpass,Brandonville,KY,13859,Silver,2026-08-06T10:35:02.151723+00:00
+1105,Tammy,Stewart,omccormick@example.net,739-949-5290,163 Monica Land,Hendricksport,AR,97088,Silver,2026-08-06T10:35:02.151723+00:00
+1106,Jade,Lewis,marcusyoung@example.net,774.765.0706x96077,3386 Wood Well Suite 862,South Reginaldmouth,MT,43173,Silver,2026-08-06T10:35:02.151723+00:00
+1107,Alexander,Diaz,melinda18@example.net,543-708-4214,2421 Foster Burgs Apt. 167,Lake Brandon,NH,04795,Bronze,2026-08-06T10:35:02.151723+00:00
+1108,Carolyn,Bryan,savannahclay@example.org,001-745-749-8842x17036,4749 Santos Points Apt. 910,Kerryview,ID,90948,Silver,2026-08-06T10:35:02.152722+00:00
+1109,Christina,Miller,melissawiley@example.com,(912)607-2453x483,52394 Rogers Green Apt. 595,North Tammyton,CT,51025,Bronze,2026-08-06T10:35:02.152722+00:00
+1110,Rachel,Miller,pcoleman@example.net,001-964-413-1970x5091,169 Mooney Canyon Suite 726,South Jonathan,MH,86203,Silver,2026-08-06T10:35:02.152722+00:00
+1111,Frank,Wyatt,goodmanamanda@example.com,942.224.5642x473,12477 Villanueva Ports Apt. 280,Rothshire,AZ,97731,Gold,2026-08-06T10:35:02.152722+00:00
+1112,Kimberly,Mcintyre,jtucker@example.org,977.881.9694x597,279 Waller Parkway Apt. 861,Austinmouth,MP,08966,Gold,2026-08-06T10:35:02.152722+00:00
+1113,Kathryn,Sims,reneegarcia@example.org,001-923-247-3446x3022,71810 Megan Glen Apt. 853,Maysstad,CA,75316,Gold,2026-08-06T10:35:02.153723+00:00
+1114,Linda,Dixon,justinmendoza@example.net,8445209819,68903 Bennett Row,Grantberg,WA,91080,Gold,2026-08-06T10:35:02.153723+00:00
+1115,Michael,Reeves,zacharyabbott@example.com,6773891353,261 Melissa Lodge Apt. 978,Mossmouth,WI,98798,Bronze,2026-08-06T10:35:02.154226+00:00
+1116,Lori,Smith,christopherflowers@example.org,(775)760-7618x9722,146 Taylor Forks Suite 470,Josephmouth,ND,72379,Silver,2026-08-06T10:35:02.154226+00:00
+1117,Karen,Jackson,moorewilliam@example.org,001-901-427-4419x21004,41001 Cherry Mills,Waltersmouth,PW,15371,Gold,2026-08-06T10:35:02.154226+00:00
+1118,David,Hubbard,ajordan@example.net,902.883.2912x70057,440 Torres Road,New Seanton,NV,28830,Silver,2026-08-06T10:35:02.154226+00:00
+1119,Craig,Stone,kellyfuller@example.com,8706746641,360 Nguyen Union Suite 025,Morganchester,CO,58595,Gold,2026-08-06T10:35:02.154226+00:00
+1120,Brenda,Clark,molly57@example.net,546.212.8280x69018,608 Daniel Ports,Lewisland,PW,89177,Silver,2026-08-06T10:35:02.154226+00:00
+1121,Ashley,Rogers,laura14@example.org,(507)871-5634x843,53683 Olivia Overpass,New Christopher,RI,07733,Gold,2026-08-06T10:35:02.154226+00:00
+1122,Mark,Harrison,abrown@example.net,001-424-693-4673x16733,9966 Andersen Run Suite 063,South Willieberg,IL,24479,Gold,2026-08-06T10:35:02.155729+00:00
+1123,William,Henderson,jessica59@example.net,237.873.0507,763 Ayers Point Apt. 800,West Sarah,WI,64668,Bronze,2026-08-06T10:35:02.155729+00:00
+1124,Heather,Brady,millermichael@example.net,814-884-6142x24613,692 Wood Expressway Apt. 915,East Dawnport,NE,78754,Gold,2026-08-06T10:35:02.155729+00:00
+1125,Brandy,Garcia,lunajessica@example.com,633-397-0716x161,273 Harold Drive,Williamland,VI,16497,Silver,2026-08-06T10:35:02.155729+00:00
+1126,Randall,Lee,woodwardscott@example.com,(581)560-3002x859,666 Rhonda Crescent,Phillipsfort,VI,57358,Silver,2026-08-06T10:35:02.156732+00:00
+1127,Joseph,Wright,mackenzie02@example.com,(224)214-7073x73423,581 Carol Springs,Banksberg,CO,12731,Gold,2026-08-06T10:35:02.156732+00:00
+1128,April,Richardson,xhale@example.net,+1-492-466-3005x0370,0273 Kenneth Wall Apt. 451,Sparksville,MT,85480,Bronze,2026-08-06T10:35:02.156732+00:00
+1129,Alexandria,Anderson,thompsongregory@example.com,001-961-283-6998x7149,049 Scott Unions Apt. 196,New Donna,VI,96852,Gold,2026-08-06T10:35:02.156732+00:00
+1130,Richard,Alvarez,jeffersonsharon@example.org,851.269.3149,2919 Victor Knoll,East Anthonyport,ND,42123,Gold,2026-08-06T10:35:02.156732+00:00
+1131,Samantha,White,trantristan@example.org,001-949-647-2807x410,1308 Melinda Trace Suite 692,East Kevinshire,VI,92110,Gold,2026-08-06T10:35:02.157731+00:00
+1132,Jill,Stone,erika54@example.com,(747)858-1241x614,346 Mcdaniel Rapids,North Tricia,NM,17681,Bronze,2026-08-06T10:35:02.157731+00:00
+1133,Dylan,Williams,crystalpena@example.net,(600)692-0036,84214 Johnson Spring Suite 858,Stevenside,MS,56487,Gold,2026-08-06T10:35:02.157731+00:00
+1134,James,Burns,faithprice@example.org,902.333.9264,7503 Brian Trace Apt. 515,East Cathy,IL,05392,Silver,2026-08-06T10:35:02.157731+00:00
+1135,Jeffery,Carr,robert27@example.net,2568666004,95278 Vaughan Extension Apt. 530,North Gerald,NC,70127,Silver,2026-08-06T10:35:02.158731+00:00
+1136,Joe,Jackson,dale07@example.com,375-595-6941x424,71001 Zachary Center,Williamville,NV,46000,Bronze,2026-08-06T10:35:02.158731+00:00
+1137,Shannon,Haynes,lucaslee@example.com,(285)668-3391,50887 Jackson Tunnel,Port Cynthia,PA,31149,Gold,2026-08-06T10:35:02.158731+00:00
+1138,Juan,Snyder,monica60@example.org,909-529-3456,48920 Smith Drive Apt. 055,Bakerfurt,AZ,84932,Gold,2026-08-06T10:35:02.158731+00:00
+1139,Laura,Wilson,jennifer31@example.com,+1-800-327-5026x9473,539 Tina Underpass Suite 684,Kimberlyborough,NJ,10008,Gold,2026-08-06T10:35:02.158731+00:00
+1140,Caleb,Shah,xandrews@example.org,589-707-4280x280,432 Donald Canyon,Robertmouth,MA,35828,Bronze,2026-08-06T10:35:02.159731+00:00
+1141,Robert,Gardner,cooperrebecca@example.com,553.234.7294,6873 Charles Lakes Suite 937,Woodmouth,OR,57033,Silver,2026-08-06T10:35:02.159731+00:00
+1142,Linda,Lopez,tylerfleming@example.net,203-693-0016x187,6385 Brenda Neck,North Jennifer,MA,37853,Silver,2026-08-06T10:35:02.159731+00:00
+1143,Bobby,Davis,melissa46@example.org,(500)202-9141x754,653 Ramirez Street Suite 667,Lake Mike,DC,22203,Silver,2026-08-06T10:35:02.159731+00:00
+1144,Ryan,Trevino,joseph32@example.net,001-286-351-7041x385,0484 Jennifer Street,East Zacharymouth,MN,52929,Silver,2026-08-06T10:35:02.159731+00:00
+1145,Joshua,Shea,adavis@example.org,8728748042,778 Kimberly Spurs Suite 176,Ericland,OR,95798,Silver,2026-08-06T10:35:02.160731+00:00
+1146,Kathleen,Howard,brandon61@example.net,001-710-580-6180x7283,1100 Amy Way Suite 014,Alexanderview,OR,91727,Gold,2026-08-06T10:35:02.160731+00:00
+1147,Diamond,Ochoa,april75@example.org,653-832-8391x88429,406 Jenna Lights Suite 106,Patriciamouth,NV,16026,Gold,2026-08-06T10:35:02.160731+00:00
+1148,Amber,Conley,thomas98@example.com,443.782.4542,7160 Murphy Place Suite 632,Lisachester,AL,26386,Bronze,2026-08-06T10:35:02.160731+00:00
+1149,Allison,Gibbs,dominiquecain@example.com,(472)582-1304x6167,0823 Klein Way,South David,VA,27257,Silver,2026-08-06T10:35:02.160731+00:00
+1150,Patrick,Knox,richardhess@example.net,001-721-244-9350x21048,588 Brian Unions,West Randyport,NE,50530,Bronze,2026-08-06T10:35:02.161732+00:00
+1151,Xavier,Bell,timothy74@example.net,(320)652-1186,25666 Jean Throughway,Perkinsmouth,IN,48646,Silver,2026-08-06T10:35:02.161732+00:00
+1152,David,Cole,oliviamora@example.com,+1-626-832-5442x36280,615 Allen Mission Apt. 127,Murphyton,AZ,59915,Bronze,2026-08-06T10:35:02.161732+00:00
+1153,Ronald,Hunter,drakedustin@example.org,(880)770-1319x545,65583 King Hollow Suite 629,New Brittany,KY,18458,Bronze,2026-08-06T10:35:02.161732+00:00
+1154,Joseph,Turner,emily54@example.com,2943500114,28537 Alexander Trace Apt. 236,New Joyton,ID,00719,Silver,2026-08-06T10:35:02.161732+00:00
+1155,Scott,Estrada,tiffanymcbride@example.net,+1-827-334-3229,28447 Mallory River Suite 183,Ralphburgh,SD,56536,Bronze,2026-08-06T10:35:02.162737+00:00
+1156,Philip,Dominguez,timothy61@example.com,(403)248-7403x091,07059 Randy Throughway Apt. 715,West Sarahfurt,NM,69126,Bronze,2026-08-06T10:35:02.162737+00:00
+1157,Monique,Knapp,jamie09@example.net,001-926-572-0784x118,756 Underwood Rapid Suite 974,East Stephanieview,WV,53238,Bronze,2026-08-06T10:35:02.162737+00:00
+1158,Barry,Davis,hendersonmichael@example.org,+1-521-814-1199x1514,301 Tyler Brook Suite 448,South Kylie,NC,68833,Silver,2026-08-06T10:35:02.162737+00:00
+1159,John,Vega,nathanjohnson@example.org,899-301-1564x7509,725 Graves Lights,East David,OH,01365,Bronze,2026-08-06T10:35:02.162737+00:00
+1160,Susan,Barker,matthewsalinas@example.com,001-205-229-0009,332 Dawson Turnpike Apt. 331,Glenchester,MO,87473,Silver,2026-08-06T10:35:02.162737+00:00
+1161,Joann,Smith,qwarren@example.net,001-562-551-4073x717,85834 Oliver Cliff Suite 567,South Robertfurt,ID,83889,Silver,2026-08-06T10:35:02.164241+00:00
+1162,Diane,Brown,shelleymunoz@example.org,+1-806-294-3063x025,544 Kathryn Plaza,Michaelfurt,MT,36743,Bronze,2026-08-06T10:35:02.164241+00:00
+1163,David,Barber,jeffreyanderson@example.com,001-504-596-5370x35151,38376 Jones Lakes,South Alexander,WV,96882,Bronze,2026-08-06T10:35:02.164241+00:00
+1164,Donald,Miller,erica70@example.com,471.364.5068,06171 Pitts Fall,West Cristina,NC,91622,Silver,2026-08-06T10:35:02.164241+00:00
+1165,Kenneth,Holden,fhancock@example.com,4634454135,911 Davis Prairie Suite 429,South Jessica,CT,38790,Silver,2026-08-06T10:35:02.164241+00:00
+1166,Steven,Lewis,jenniferhill@example.org,001-805-994-9537x0324,092 Victor Villages Suite 992,Fisherside,PW,86409,Silver,2026-08-06T10:35:02.164241+00:00
+1167,Alexander,Paul,lwalker@example.com,+1-388-763-5933x1521,57574 Johnson Ramp Suite 022,Eatonfort,PW,58156,Bronze,2026-08-06T10:35:02.164241+00:00
+1168,Andrew,Murray,alejandro59@example.net,+1-797-401-6106x047,671 Phillips Camp,Christopherberg,MH,04058,Silver,2026-08-06T10:35:02.165743+00:00
+1169,Julian,Baker,robertprince@example.net,660.514.9814,81723 Smith Port,Tuckerhaven,VT,88499,Gold,2026-08-06T10:35:02.165743+00:00
+1170,Nathan,Jackson,wbarnes@example.org,(765)744-2618x3817,115 Timothy Shores,Frankburgh,PA,44848,Bronze,2026-08-06T10:35:02.165743+00:00
+1171,Jessica,Nielsen,rebecca93@example.net,+1-580-715-1688x383,4529 Brandon Islands Suite 710,Richardsfurt,MA,02187,Bronze,2026-08-06T10:35:02.165743+00:00
+1172,Stephanie,Rodriguez,carpenternathan@example.net,(352)871-1843x0940,819 Carol Plaza,Paulfurt,PW,98788,Bronze,2026-08-06T10:35:02.165743+00:00
+1173,Marc,West,thompsonjessica@example.net,+1-303-724-8298,62835 Wayne Place Apt. 681,South Meganton,NH,57404,Bronze,2026-08-06T10:35:02.166746+00:00
+1174,Cory,James,shannonsmith@example.net,688-624-6997x590,86686 Moyer Green Apt. 139,North Maryfurt,NV,13681,Silver,2026-08-06T10:35:02.166746+00:00
+1175,Richard,Gardner,kara02@example.net,+1-365-662-3731,9684 Frost Parks Apt. 513,Lake Amyburgh,WV,36685,Silver,2026-08-06T10:35:02.166746+00:00
+1176,Ronald,Vega,pgonzalez@example.org,823.700.1689,204 Walker Walks,Lake Jane,NH,40564,Gold,2026-08-06T10:35:02.166746+00:00
+1177,Monica,Freeman,brightdavid@example.org,+1-580-295-1742x35895,97069 Watson Motorway Apt. 538,Lake Carol,KS,87037,Silver,2026-08-06T10:35:02.166746+00:00
+1178,Michael,Jackson,pam69@example.net,6282545607,988 Steven Island Suite 325,North Amber,IL,66346,Silver,2026-08-06T10:35:02.167746+00:00
+1179,Brian,Andrews,diane59@example.net,2788499907,456 Garza Springs Suite 339,Lake Samuel,IA,72471,Bronze,2026-08-06T10:35:02.167746+00:00
+1180,Jay,Mitchell,walterschristian@example.net,(360)231-5426x77520,6864 Bradley Green Suite 677,South Angela,AL,85554,Bronze,2026-08-06T10:35:02.167746+00:00
+1181,Catherine,Barrett,bradylopez@example.net,+1-201-267-8515x92556,7756 Michael Stream Suite 747,Wongstad,MH,94366,Silver,2026-08-06T10:35:02.167746+00:00
+1182,Jason,Miller,rbrooks@example.net,973-658-2219x77389,068 Lewis Flat,West Oscarport,ME,74910,Bronze,2026-08-06T10:35:02.168747+00:00
+1183,Chad,Smith,cochranalicia@example.com,918.213.8482x92974,767 Johns Forks Suite 638,South Melindaburgh,WY,48001,Gold,2026-08-06T10:35:02.168747+00:00
+1184,Anita,Smith,barrettjoseph@example.com,+1-446-456-0747x64288,813 Gregory Viaduct,Mariehaven,VI,29669,Silver,2026-08-06T10:35:02.168747+00:00
+1185,Lori,Stevenson,rwilson@example.net,501-422-6265,3100 Wolf Light,Delgadoton,ME,96225,Gold,2026-08-06T10:35:02.168747+00:00
+1186,Cory,Reyes,taylorkeith@example.net,+1-258-697-2967,3190 Rhonda Mountain,Port Kayla,AL,65309,Gold,2026-08-06T10:35:02.168747+00:00
+1187,Renee,Gibson,ifields@example.org,665.723.9153x574,767 Robbins Gardens Suite 051,Lake Samuelborough,FM,94686,Bronze,2026-08-06T10:35:02.169746+00:00
+1188,Shari,Howe,thomasmcgee@example.net,342-936-4968x31423,220 Crystal Course Suite 087,Riverachester,AR,72232,Silver,2026-08-06T10:35:02.169746+00:00
+1189,Stacey,Holt,wileyalexandra@example.net,(983)742-5622,80685 Michelle Plaza Suite 203,South Alexander,FL,34139,Gold,2026-08-06T10:35:02.169746+00:00
+1190,Barry,Hernandez,francisco06@example.com,3185765325,17001 Phillip Flats,Heatherville,NV,11409,Bronze,2026-08-06T10:35:02.169746+00:00
+1191,John,Medina,brett90@example.net,+1-669-256-2969x97579,28194 Peter Overpass Suite 189,Yodertown,FL,35908,Bronze,2026-08-06T10:35:02.169746+00:00
+1192,Travis,Lewis,gracepeters@example.net,(973)510-4874x121,71398 Kelly Grove,Marshallchester,NV,12840,Silver,2026-08-06T10:35:02.170746+00:00
+1193,Timothy,Mcdaniel,kimberlylambert@example.com,(606)354-2574,259 Cain Mountains,New Holly,FL,62711,Silver,2026-08-06T10:35:02.170746+00:00
+1194,Frank,Davis,tlewis@example.com,(935)562-1483,3270 Katherine Forks,North Samuel,WI,55779,Bronze,2026-08-06T10:35:02.170746+00:00
+1195,Crystal,Bennett,johnhill@example.net,815.996.2241,136 Moore Oval Suite 160,Hollandchester,NV,98732,Gold,2026-08-06T10:35:02.170746+00:00
+1196,Amber,Fernandez,kimberlymitchell@example.com,785.632.1517x197,06270 Lopez Lake Apt. 303,North Joseph,SC,60240,Silver,2026-08-06T10:35:02.171746+00:00
+1197,Benjamin,Johnson,abigail04@example.com,680-346-2283,361 Michael Bypass,North Erin,MO,29853,Gold,2026-08-06T10:35:02.171746+00:00
+1198,Teresa,Taylor,kelly15@example.org,965.399.9090,725 Carter Mill Suite 382,Grahamhaven,OK,42381,Bronze,2026-08-06T10:35:02.171746+00:00
+1199,Teresa,Vasquez,robinsonjacqueline@example.com,001-775-374-2421x0079,18968 John Plaza Apt. 252,Mooreland,NV,02194,Silver,2026-08-06T10:35:02.171746+00:00
+1200,William,Perry,amberwilliams@example.net,001-251-807-1385x1535,856 Mary Landing,Johnsonhaven,DC,12938,Bronze,2026-08-06T10:35:02.171746+00:00
