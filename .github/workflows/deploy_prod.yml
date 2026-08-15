@@ -1,0 +1,22 @@
+# .github/workflows/deploy-prod.yml
+name: Deploy to Prod
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: production
+    env:
+      DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+      DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: databricks/setup-cli@main
+      - name: Validate bundle
+        run: databricks bundle validate -t prod
+      - name: Deploy bundle
+        run: databricks bundle deploy -t prod
+      - name: Run batch pipeline
+        run: databricks bundle run batch_scd2_job -t prod

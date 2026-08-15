@@ -1,0 +1,22 @@
+# .github/workflows/deploy-dev.yml
+name: Deploy to Dev
+
+on:
+  push:
+    branches: [dev]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+      DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: databricks/setup-cli@main
+      - name: Validate bundle
+        run: databricks bundle validate -t dev
+      - name: Deploy bundle
+        run: databricks bundle deploy -t dev
+      - name: Run batch pipeline
+        run: databricks bundle run batch_scd2_job -t dev
